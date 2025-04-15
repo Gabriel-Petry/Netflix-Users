@@ -1,4 +1,4 @@
-<h2 align="center">Little Netflix users, clients and suppliers.</h2>
+<h2 align="center">Little Netflix users, clients and suppliers manager.</h2>
 
 ###
 
