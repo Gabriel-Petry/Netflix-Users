@@ -1,0 +1,11 @@
+C:\Users\Técnico\Desktop\telas\telas\bin\Debug\telas.exe.config
+C:\Users\Técnico\Desktop\telas\telas\bin\Debug\telas.exe
+C:\Users\Técnico\Desktop\telas\telas\bin\Debug\telas.pdb
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\Telas.csprojResolveAssemblyReference.cache
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.frLogin.resources
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.FrPrincipal.resources
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.Properties.Resources.resources
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\Telas.csproj.GenerateResource.Cache
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.exe
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.pdb
+C:\Users\Técnico\Desktop\telas\telas\obj\Debug\telas.FrSplash.resources
